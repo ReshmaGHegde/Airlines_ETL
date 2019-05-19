@@ -7,6 +7,6 @@ We observed that of all the 14 airlines, United Air Lines Inc. was on time for t
 The most frequent round-trip airline routes found between Los Angeles - New York with a max count of 2166 flights in the month of Jan 2015 whereas San Francisco - Los Angeles had the 2nd most frequent round-trip airline routes with 2149 flights.
 
 Team:
-Reshma G.Hegde
-Sneha Kundra
+Reshma G.Hegde,
+Sneha Kundra,
 Duy Nguyen
